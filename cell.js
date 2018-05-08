@@ -12,7 +12,7 @@ class Cell {
   }
 
   get col() {
-    return this._column;
+    return this._col;
   }
 
   get isAlive() {
